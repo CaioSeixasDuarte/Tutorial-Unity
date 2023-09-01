@@ -33,3 +33,8 @@ Para utilizá-lo, devem ser seguidos os seguintes passos:
     - Ex: gcc test_projfinal.c Unity/unity.c -o test_projfinal.x
   - Para executar o teste, deve ser utilizado o seguinte comando:
     - Ex: ./test_projfinal.x    
+
+Referências:
+https://github.com/ThrowTheSwitch/Unity
+https://www.throwtheswitch.org/Unity
+https://maze-runner.medium.com/unit-testing-your-c-code-using-unity-dadfdf3b53aa
