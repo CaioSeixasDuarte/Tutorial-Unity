@@ -22,7 +22,7 @@ Para utilizá-lo, devem ser seguidos os seguintes passos:
   - Depois, devem ser inseridas as funções de teste denominadas "Assert", que fazem comparações entre valores calculados e valores esperados. Tais funções podem ser de vários tipos, como:
     - Teste básicos de validade;
       - Ex: TEST_ASSERT_TRUE(condition).
-    - Asserções numéricas com números;
+    - Asserções numéricas;
       - Ex: TEST_ASSERT_EQUAL_INT(expected, actual).
     - Asserções de string;
       - Ex: TEST_ASSERT_EQUAL_STRING(expected, actual).
