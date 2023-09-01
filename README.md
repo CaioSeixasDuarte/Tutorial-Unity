@@ -9,12 +9,12 @@ O Unity é um framework para testes unitários de programas escritos em linguage
   - No arquivo C, devem ser incluídos o arquivo header do framework Unity e, caso seja necessário, o arquivo header com funções a serem comparadas nos testes;
   - Em seguida, devem ser inseridas funções padrão de configuração, caso sejam necessárias;
   - Depois, devem ser inseridas as funções de teste denominadas "Assert", que fazem comparações entre valores calculados e valores esperados. Tais funções podem ser de vários tipos, como:
-          - Teste básicos de validade;
-            - Ex: TEST_ASSERT_TRUE(condition).
-          - Asserções numéricas com números;
-            - Ex: TEST_ASSERT_EQUAL_INT(expected, actual).
-          - Asserções de string;
-            - Ex: TEST_ASSERT_EQUAL_STRING(expected, actual).
+    - Teste básicos de validade;
+      - Ex: TEST_ASSERT_TRUE(condition).
+    - Asserções numéricas com números;
+      - Ex: TEST_ASSERT_EQUAL_INT(expected, actual).
+    - Asserções de string;
+      - Ex: TEST_ASSERT_EQUAL_STRING(expected, actual).
 
 3) Compilação e execução:
   - Para compilar os testes, deve ser utilizado o compilador GCC.
