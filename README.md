@@ -15,6 +15,7 @@ O Unity é um framework para testes unitários de programas escritos em linguage
       - Ex: TEST_ASSERT_EQUAL_INT(expected, actual).
     - Asserções de string;
       - Ex: TEST_ASSERT_EQUAL_STRING(expected, actual).
+  - Por fim, é inserida a função main do código, onde se encontra a execeção das funções de teste e, consequentemente, a aplicação do framework Unity;
 
 3) Compilação e execução:
   - Para compilar os testes, deve ser utilizado o compilador GCC.
