@@ -35,6 +35,6 @@ Para utilizá-lo, devem ser seguidos os seguintes passos:
     - Ex: ./test_projfinal.x    
 
 Referências:
-https://github.com/ThrowTheSwitch/Unity
-https://www.throwtheswitch.org/Unity
-https://maze-runner.medium.com/unit-testing-your-c-code-using-unity-dadfdf3b53aa
+- https://github.com/ThrowTheSwitch/Unity
+- https://www.throwtheswitch.org/Unity
+- https://maze-runner.medium.com/unit-testing-your-c-code-using-unity-dadfdf3b53aa
