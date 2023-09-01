@@ -1,5 +1,16 @@
 # Tutorial-Unity
-O Unity é um framework para testes unitários de programas escritos em linguagem C. Para utilizá-lo, devem ser seguidos os seguintes passos:
+O Unity é um framework para testes unitários de programas escritos em linguagem C.
+É uma ferramenta open source, disponível em: https://github.com/ThrowTheSwitch/Unity
+
+Pontos positivos:
+  - Configuração rápida;
+  - Fácil de usar;
+
+Pontos negativos:
+  - Restrito à linguagem C;
+  - Pode ser limitado a testes mais complexos;
+
+Para utilizá-lo, devem ser seguidos os seguintes passos:
 
 1) Configuração: 
   - Devem ser salvos alguns arquivos do framework em uma pasta dentro do diretório do projeto a ser testado;
